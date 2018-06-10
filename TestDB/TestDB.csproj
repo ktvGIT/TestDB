@@ -48,6 +48,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Branch.cs" />
+    <Compile Include="CBranch.cs" />
+    <Compile Include="CReadBase.cs" />
+    <Compile Include="CSQL.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
